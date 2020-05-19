@@ -1,6 +1,7 @@
 # Angular 7 - Demo CRUD Application / Project for Beginners
 # Student Management
-### Created By [Hemin S Patel]
+### Created By Hemin S Patel
+### contact info patelhemin1607@gmail.com   (+91)9979290148
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
